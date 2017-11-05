@@ -1,6 +1,6 @@
 package astibundler
 
-import "github.com/asticode/go-astilectron"
+import "github.com/tehsphinx/go-astilectron"
 
 // Constants
 const (

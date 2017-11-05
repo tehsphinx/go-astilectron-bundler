@@ -14,12 +14,12 @@ import (
 	"time"
 
 	"github.com/akavel/rsrc/rsrc"
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/os"
-	"github.com/asticode/go-astitools/zip"
 	"github.com/jteeuwen/go-bindata"
 	"github.com/pkg/errors"
+	"github.com/tehsphinx/go-astilectron"
+	"github.com/tehsphinx/go-astilog"
+	"github.com/tehsphinx/go-astitools/os"
+	"github.com/tehsphinx/go-astitools/zip"
 )
 
 // Configuration represents the bundle configuration
